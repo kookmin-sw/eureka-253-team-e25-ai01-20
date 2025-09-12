@@ -17,6 +17,7 @@
 ### 팀 슬로건
 
 작은 힘을 모아 큰 변화를
+Slow is smooth, smooth is fast
 
 ### 팀 소개
 
