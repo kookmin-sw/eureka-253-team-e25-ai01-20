@@ -112,6 +112,56 @@ How?
 
 - 이러한 발전은 기술의 빠른 진화 속도를 보여주며, 앞으로 더욱 혁신적인 인간-기계 상호작용이 가능해질 것으로 예상됨.
 
+***
+
+## 우리가 상상한 미래 (2025-10-10 5주차 수업)
+
+## 2040년 또는 2050년 우리들의 생활 모습은 어떠할지 그려보기
+
+<img width="1024" height="1536" alt="2040년의 이모저모" src="https://github.com/user-attachments/assets/c7828ed1-71ea-40b8-b8dc-6f4f0a141d56" />
+
+ChatGPT DALL-E 를 사용해서 이미지를 생성했습니다. 
+프롬프트는 아래와 같습니다. 
+
+Drawn in a warm, nostalgic comic style from the 1970s–1980s, with humorous handwritten captions in Korean.  
+The artwork shows multiple futuristic scenes in one frame, depicting how people might live in 2040–2050.  
+Each small scene has people smiling and living comfortably with advanced technology.  
+Include: Flying personal vehicles and VTOL taxis in the sky above a compact Korean city.  
+Solar-powered homes (energy zero houses) with solar panels on roofs, showing self-sufficient electricity generation.  
+Humanoid household robots acting as family members, doing chores or playing with kids.  
+Fully autonomous vehicles (Level 5 self-driving) moving on smart roads with digital road signs.  
+Drone delivery systems flying through the sky carrying packages.  
+People wearing AR glasses or contact lenses, interacting with holographic messages, maps, and calls using hand gestures or eye movement.  
+Students attending metaverse classrooms through VR headsets at home.  
+Wearable health monitors and smart toilets analyzing health data, with remote doctors appearing on screens.  
+Personalized AI assistants helping users schedule, manage finances, and organize documents.  
+Smart cities managed by AI, showing sensors monitoring air quality, flood control, and energy usage.  
+The overall tone is optimistic, educational, and slightly humorous, mimicking vintage Korean comics that imagined the year 2000.  
+Layout should resemble a single-page magazine comic, filled with many small futuristic scenes that together create a lively vision of daily life in 2050 Korea.
+
+## 기술 트렌드 찾아보기 (벤치마킹)
+
+현재 상용화 또는 실사용 중인 기술:  
+- 에너지 제로하우스 / 태양광 자급자족 주택 → 한국 포함 전세계적으로 보급 중 (제로에너지 건축 인증제 있음)
+- 자율주행 Level 2~3 → 테슬라, 현대, 메르세데스 등 상용화 (완전 Level 5는 아직)
+- 드론 택배 → 미국·중국·한국 일부 지역에서 시범 서비스 중 (Amazon Prime Air, 우정사업본부 등)
+- AR 안경 / 렌즈형 디스플레이 → Meta, Apple, Samsung 등이 개발·출시 (Vision Pro, Ray-Ban Meta 등)
+- 캠퍼스·신도시 자율주행 셔틀 → 판교·세종·대구 등에서 실제 운행 중
+- 개인 맞춤형 AI 비서 → ChatGPT, Google Assistant, Copilot 등 생성형 AI로 상용화
+- 스마트 헬스케어 / 웨어러블 건강관리 → Apple Watch, Fitbit, Galaxy Ring 등 상용화
+- 원격 진료(비대면 의료) → 한국 한시 허용, 해외(미국·일본)는 정식 제도화
+- 도시 운영 AI / 스마트시티 인프라 → 세종·송도·두바이 등에서 AI 교통·에너지 제어 도입
+
+아직 개발 중이거나 실험 단계인 기술:
+- 개인형 VTOL 택시 (하늘 이동수단) → Joby, Hyundai Supernal 등 시범 비행 중
+- 완전 Level 5 자율주행 → 기술 테스트 단계
+- 렌즈형 AR / 뇌파 제어 인터페이스 → 연구 중, 상용화 전
+- 로봇이 가족 구성원처럼 생활하는 단계 → 연구 및 프로토타입 수준
+
+## 우리가 그린 2040 / 2050년의 모습 속에서 나는 어떠한 모습으로 생활하고 있을까요?
+
+이 모든 것이 당연하다는 듯이 생활 하고 있을 것 같다.
+
 ## 5️⃣ 특별히 알아보고 싶은 것
 - 예: 현장실습 제도
 - 예: TOPCIT 정기평가
