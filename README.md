@@ -162,6 +162,9 @@ Layout should resemble a single-page magazine comic, filled with many small futu
 
 이 모든 것이 당연하다는 듯이 생활 하고 있을 것 같다.
 
+<img width="2245" height="3179" alt="유레카 프로젝트 20팀 - 우리가 상상한 미래 A1 포스터" src="https://github.com/user-attachments/assets/11066457-fcfb-4d62-9b9c-4aba1c73a90c" />
+
+
 ## 5️⃣ 특별히 알아보고 싶은 것
 - 예: 현장실습 제도
 - 예: TOPCIT 정기평가
